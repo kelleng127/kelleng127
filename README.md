@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kelleng127
 - I am an undergraduate Computer Science BS student at Clemson University !
-- I am currently involved in Undergraduate Research regarding Privacy Policies and User Protection in software development
+- I am currently involved in Undergraduate Research regarding Privacy Policies and User Protection in Software Development
 - Feel free to take a look at some of my projects !
 
 <!---
